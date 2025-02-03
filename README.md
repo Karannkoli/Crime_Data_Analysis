@@ -83,6 +83,6 @@ This project involves analyzing crime data by connecting to a MySQL database, pe
 This project is licensed under the MIT License.
 
 ## Acknowledgements:
-- The crime dataset used in this project is available at (https://github.com/Karannkoli/Crime_Data_Analysis/blob/main/Crime%20Data%20Analysis.sql).
+- The crime dataset used in this project is available at (https://github.com/Karannkoli/Crime_Data_Analysis/blob/main/crime_database.csv).
 
 
